@@ -74,4 +74,4 @@ pipwin install pyaudio
 
 Google Speech API offline / errors
 
- -The default recognizer in speech_recognition uses Google Web Speech and requires internet access. You can use offline backends like pocketsphinx, but installation and accuracy differ.
+ - The default recognizer in speech_recognition uses Google Web Speech and requires internet access. You can use offline backends like pocketsphinx, but installation and accuracy differ.
