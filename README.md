@@ -20,3 +20,10 @@ A simple Python project that listens for voice commands (e.g. "draw red circle a
 - A working microphone for live voice input.
 
 - On Windows, installing PyAudio can be a little tricky — see Troubleshooting below.
+
+#### Installation (step-by-step)
+
+Clone the repo (or create a new folder and copy the script):
+```git clone <your-repo-url> cd voice-shape-drawer```
+
+Create and activate a virtual environment (recommended)
